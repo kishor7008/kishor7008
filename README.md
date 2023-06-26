@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋 My name is Kishor Kumar Ghadei,
 🔭 As a full stack web developer, I possess a passion for creating innovative and user-friendly digital experiences. With a solid foundation in front-end technologies like HTML, CSS, and JavaScript, I excel at crafting visually appealing and responsive interfaces. On the back-end, my expertise lies in designing and implementing efficient server-side solutions using frameworks like Node.js and databases like MongoDB.
 
 
