@@ -15,7 +15,7 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 * 🖥️  See my portfolio at [My Portfolio]("portfolio link")
 * ✉️  You can contact me at [pspkbabul@gmail.com](mailto:pspkbabul@gmail.com)
 * 📄 Know about my experiences [Resume]("resume link")
-* 🧠  I'm learning Java | Data Structures and Algorithms | React | Redux | HTML5 | CSS3 | ES6 JavaScript | NodeJs | MongoDB | npm packages | Express Js | Flutter | React Native | Herocku | Chakra UI | React-Bootstrap
+* 🧠  I'm learning Java | Data Structures and Algorithms | React | Redux | HTML5 | CSS3 | ES6 JavaScript | NodeJs | MongoDB | npm packages | Express Js | Flutter | React Native | Herocku  | React-Bootstrap
 
 ### Skills
 
