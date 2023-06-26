@@ -7,7 +7,7 @@ Glad To See You Here!✨
 ----------------------
 
 
-<img align="right" alt="Coding" width="400" height="300" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 I'm a full-stack web developer specializing in MERN stack, passionate about coding and learning new technologies.
 
 
