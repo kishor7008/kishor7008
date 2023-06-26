@@ -11,7 +11,7 @@ Glad To See You Here!✨
 I'm a full-stack web developer specializing in MERN stack, passionate about coding and learning new technologies.
 
 
-* 🌍  I'm based in Haryana , India
+* 🌍  I'm based in Odisha , India
 * 🖥️  See my portfolio at [My Portfolio]("portfolio link")
 * ✉️  You can contact me at [pspkbabul@gmail.com](mailto:pspkbabul@gmail.com)
 * 📄 Know about my experiences [Resume]("resume link")
