@@ -8,7 +8,7 @@ Glad To See You Here!✨
 
 
 <img align="right" alt="Coding" width="400" height="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-            As a full stack web developer, I possess a passion for creating innovative and user-friendly digital experiences. With a solid foundation in front-end technologies like HTML, CSS, and JavaScript, I excel at crafting visually appealing and responsive interfaces. On the back-end, my expertise lies in designing and implementing efficient server-side solutions using frameworks like Node.js and databases like MongoDB.
+            As a full stack web developer, I possess a passion for creating innovative and user-friendly digital experiences. With a solid foundation in front-end technologies like HTML, CSS, JavaScript and React, I excel at crafting visually appealing and responsive interfaces. On the back-end, my expertise lies in designing and implementing efficient server-side solutions using frameworks like Node.js, Express.js and databases like MongoDB.
 
 
 
