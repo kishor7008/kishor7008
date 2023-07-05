@@ -15,7 +15,7 @@ Glad To See You Here!✨
 * 🌍  I'm based in Odisha , India
 * 🖥️  See my portfolio at [My Portfolio](https://helpful-medovik-b55bd6.netlify.app/)
 * ✉️  You can contact me at [pspkbabul@gmail.com](mailto:pspkbabul@gmail.com)
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13NevYSktoQQ5mxnr_TDobCqQLShmGSet/view?usp=drivesdk)
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XhzKF5SWizJHloUWtKNtAA0MwBueUFSR/view?usp=sharing)
 * 🧠  I'm learning Java | Data Structures and Algorithms | React | Redux | HTML5 | CSS3 | ES6 JavaScript | NodeJs | MongoDB | npm packages | Express Js | Flutter | React Native | Heroku  | React-Bootstrap | Bootstrap | Material UI
 
 ### Skills
